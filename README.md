@@ -11,7 +11,7 @@ Es gibt 2 Branches in dieser GitHub Repository:
 
 <hr>
 <h2>Installation</h2>
-Wie man sich sicher denken kann ist es nun etwas komplizierter dieses Addon zum "Laufen" zu bringen ...
+Wie man sich sicher denken kann ist es nun etwas komplizierter dieses Addon zu nutzen ...
 
 ... aber auch das soll uns nicht hindern!
 
